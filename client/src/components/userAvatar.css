@@ -1,0 +1,24 @@
+.avatar-logged-in{
+    text-align: center;
+    background-color: purple;
+    width: 40px;
+    height: 40px;
+    color: white;
+    font-size: 30px;
+    border-radius: 50%;
+    text-transform: uppercase;
+    margin: 5px;
+  
+  
+  }
+
+.avatar-logged-out{
+    background-image: url("https://api-private.atlassian.com/users/69aab40b7f853806888b1d9510fd360b/avatar");
+     
+    background-size: contain;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    margin: 5px;
+     
+    }
